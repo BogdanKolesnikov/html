@@ -1,0 +1,155 @@
+body {
+    background: url(image/1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.block {
+    padding-left: 250px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 30px;
+
+}
+
+.menu li {
+    margin: 0px;
+    display: inline; 
+    padding-left: 70px;
+    font-size: 15px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.wiki {
+    font-size: 30px;
+}
+
+.burger {
+    display: inline-block;
+    margin-left: 85%;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.logo {
+    position: absolute;
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 28px;
+}
+
+.line {
+    display: inline-block;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 800px;
+    size: 2px;
+    width: 400px;
+    opacity: 0.2;
+}
+
+.S8E4 {
+    color: rgb( 244, 255, 228);
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Knight {
+    color:rgb( 244, 255, 228);
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 150px;
+    font-size: 60px;
+}
+
+.Jon {
+    position: absolute;
+    color:white;
+    opacity: 0.4;
+    margin-left: 110px;
+    margin-top: 370px;
+    line-height: 28px;
+}
+
+
+
+.Watch {
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 500px;
+    border: 1px solid rgb(4, 22, 43);
+    border-radius: 0 50px 50px 0;
+    background-color: black;
+    height: 60px;
+    width: 200px;
+    
+}
+
+.watchnow {
+    position: absolute;
+    background: transparent;
+    color:white;
+    border: none;
+    font-size: 20px;
+    margin-top: 17px;
+    margin-left: 35px;
+    color:rgb(244, 255, 228)
+}
+
+
+.synopsis {
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 500px;
+}
+
+
+.syn {
+    position: absolute;
+    background: transparent;
+    border: none;
+    color: rgb(255, 244, 228);
+    font-size: 20px;
+    margin-top: 17px;
+    margin-left: -30px;
+}
+
+.mask {
+    position: absolute;
+    display: inline-block;
+    margin-left: 85%;
+    margin-top: 750px;
+    
+}
+
+.line2 {
+    border-left: 1px solid white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1310px;
+    height: 630px;
+    opacity: 0.2;
+}
+
+.line3 {
+    position: absolute;
+    margin-top: 760px;
+    margin-left: 230px;
+    size: 2px;
+    width: 960px;
+    opacity: 0.2;
+}
+
+.pm {
+    position: absolute;
+    color:rgb(244, 255 , 228);
+    margin-top: 759px;
+    margin-left: 100px;
+}
