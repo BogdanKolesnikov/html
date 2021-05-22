@@ -1,0 +1,151 @@
+.third-page {
+  background: url("../image/bg_image.png") no-repeat;
+  width: 1440px;
+  height: 800px;
+}
+
+.img-logo {
+  position: absolute;
+  top: 41px;
+  left: 71px;
+}
+
+.left-line {
+  position: absolute;
+  width: 321px;
+  height: 0px;
+  left: 285px;
+  top: 63px;
+  opacity: 0.3;
+  border: 1px solid #feffd3;
+}
+
+.episodes {
+  position: absolute;
+  width: 149px;
+  height: 33px;
+  left: 644px;
+  top: 53px;
+  font-size: 36px;
+  color: #feffd3;
+}
+
+.right-line {
+  position: absolute;
+  width: 410px;
+  height: 0px;
+  left: 834px;
+  top: 63px;
+  opacity: 0.3;
+  border: 1px solid #feffd3;
+}
+
+.img-burger {
+  position: absolute;
+  width: 79px;
+  height: 51px;
+  left: 1281px;
+  top: 44px;
+}
+
+.description {
+  position: absolute;
+  width: 419px;
+  height: 62px;
+  left: 80px;
+  top: 170px;
+  font-size: 16px;
+  line-height: 156.23%;
+  letter-spacing: 0.02em;
+  color: #b9bcc7;
+}
+
+.block-left {
+  position: absolute;
+  top: 292px;
+  left: 50px;
+  width: 455px;
+  height: 323px;
+}
+
+.block-center {
+  position: absolute;
+  top: 292px;
+  left: 487px;
+  width: 455px;
+  height: 323px;
+}
+
+.block-right {
+  position: absolute;
+  top: 292px;
+  left: 924px;
+  width: 455px;
+  height: 323px;
+}
+
+.block-text {
+  width: 250px;
+  height: 106px;
+  position: absolute;
+  left: 159px;
+  top: 139px;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  color: #b9bcc7;
+}
+
+.part {
+  position: absolute;
+  top: 267px;
+  left: 30px;
+  color: #feffd3;
+}
+
+.but-left {
+  position: absolute;
+  top: 320px;
+  left: 80px;
+  width: 188px;
+  height: 65px;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  color: #b9bcc7;
+}
+
+.but-right {
+  position: absolute;
+  top: 320px;
+  left: 250px;
+  width: 188px;
+  height: 61px;
+  background: #04162b;
+  border-radius: 3px 30px 30px 3px;
+  border: none;
+  font-size: 16px;
+  color: #feffd3;
+}
+
+.foot-mask {
+  position: absolute;
+  top: 720px;
+  left: 60px;
+}
+
+.bottom-line {
+  position: absolute;
+  width: 1075px;
+  left: 213px;
+  top: 728px;
+
+  opacity: 0.3;
+  border: 1px solid #feffd3;
+}
+
+.foot-bow {
+  position: absolute;
+  top: 710px;
+  right: 70px;
+}
