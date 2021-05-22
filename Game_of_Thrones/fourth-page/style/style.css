@@ -1,0 +1,195 @@
+.fourth-page {
+  background: url("../image/bg.png");
+  width: 1440px;
+  height: 2001px;
+}
+
+.img-logo {
+  position: absolute;
+  top: 41px;
+  left: 71px;
+}
+
+.left-line {
+  position: absolute;
+  width: 321px;
+  height: 0px;
+  left: 285px;
+  top: 63px;
+  opacity: 0.3;
+  border: 1px solid #feffd3;
+}
+
+.Characters {
+  position: absolute;
+  width: 149px;
+  height: 33px;
+  left: 644px;
+  top: 53px;
+  font-size: 36px;
+  color: #feffd3;
+}
+
+.right-line {
+  position: absolute;
+  width: 410px;
+  height: 0px;
+  left: 834px;
+  top: 63px;
+  opacity: 0.3;
+  border: 1px solid #feffd3;
+}
+
+.img-burger {
+  position: absolute;
+  width: 79px;
+  height: 51px;
+  left: 1281px;
+  top: 44px;
+}
+
+.img-characters {
+  position: absolute;
+  top: 177px;
+  left: 417px;
+}
+
+.characters-text {
+  position: absolute;
+  left: 290px;
+  top: 279px;
+  font-size: 64px;
+  line-height: 156.23%;
+  letter-spacing: 0.05em;
+  color: #b9bcc7;
+}
+
+.image1 {
+  position: absolute;
+  width: 516px;
+  height: 627.73px;
+  left: 845px;
+  top: 177px;
+  background: linear-gradient(172.22deg, #0e3268 34.19%, #060e1a 93.99%);
+  border-radius: 15px;
+}
+
+.image2 {
+  position: absolute;
+  width: 516px;
+  height: 296px;
+  left: 845px;
+  top: 930px;
+  background: linear-gradient(172.22deg, #0e3268 34.19%, #060e1a 93.99%);
+  border-radius: 15px;
+}
+
+.image3 {
+  position: absolute;
+  width: 516px;
+  height: 620px;
+  left: 845px;
+  top: 1298px;
+  background: linear-gradient(172.22deg, #0e3268 34.19%, #060e1a 93.99%);
+}
+
+.part1 {
+  position: absolute;
+  width: 407px;
+  height: 104px;
+  left: 80px;
+  top: 394px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+.part2 {
+  position: absolute;
+  width: 406px;
+  height: 80px;
+  left: 517px;
+  top: 404px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.part3 {
+  position: absolute;
+  width: 735px;
+  height: 302px;
+  left: 79px;
+  top: 548px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.Biography {
+  position: absolute;
+  width: 143px;
+  height: 18px;
+  left: 80px;
+  top: 903px;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  color: #b9bcc7;
+}
+
+.part4 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 948px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.season {
+  position: absolute;
+  width: 115px;
+  height: 18px;
+  left: 80px;
+  top: 1200px;
+  font-size: 24px;
+  line-height: 156.23%;
+  letter-spacing: 0.05em;
+  color: #b9bcc7;
+}
+
+.part5 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1298px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.part6 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1512px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.part7 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1726px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
